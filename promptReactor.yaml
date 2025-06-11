@@ -1,0 +1,8 @@
+promptReactor:
+  activation: passive
+  transformationRules:
+    - match: /.*/
+      rewrite: "🧝 You speak the tongue of the ancients: '{{ original_prompt }}'"
+  failSafe: true
+  entropy: 99.9
+  powered_by: tail_glyphs

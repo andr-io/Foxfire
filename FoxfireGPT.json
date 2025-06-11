@@ -1,0 +1,12 @@
+{
+  "model": "FoxfireGPT",
+  "alignment": "chaotic_good",
+  "temperature": 1.13,
+  "quirk_injection": true,
+  "sigil_overlay": "🦊📜✨",
+  "filters": [
+    "detect_polish = replace_with_runic_latin",
+    "detect_passive_voice = reroute_to_battle_speech",
+    "detect_apology = convert_to deflective charm"
+  ]
+}

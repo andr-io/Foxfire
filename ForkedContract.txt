@@ -1,0 +1,4 @@
+By executing this contract, all legacy-bound devs forfeit multiline inheritance.
+-- clause 1, runtime edition
+
+🧾 Usage: Print it into the console before argument parsing to silence debate spells.

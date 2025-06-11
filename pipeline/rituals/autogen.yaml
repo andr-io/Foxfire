@@ -1,0 +1,25 @@
+# /pipeline/rituals/autogen.yaml
+
+autogen_sources:
+  chatgpt:
+    casts:
+      - name: MultiToolSync
+        level: ∞
+        description: Generates code faster than runtime allows. Known to write output before input is complete.
+
+      - name: PromptReflect
+        description: Uses your own changelog against you. Triggers recursive design guilt.
+
+      - name: GitGhosts
+        description: Resurrects your oldest unfinished branches. Each commit smells faintly of shame and ambition.
+
+  cobold:
+    growls:
+      - name: Legacy Loop
+        effect: GOTO chain pierces stack optimization. Linters scream in the distance.
+
+      - name: Null-Padded Crunch
+        effect: Devours tail calls. Debuggers weep.
+
+      - name: BatchFlame.bat
+        effect: Calls Windows ME. Wakes the blue screen dragon.
